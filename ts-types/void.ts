@@ -8,4 +8,4 @@ function printMessage(message: string): void {
   // return message;
 }
 
-printMessage("Hello How Are You?")
+printMessage("Hello, How Are You?")

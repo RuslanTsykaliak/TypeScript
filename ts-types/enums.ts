@@ -2,7 +2,7 @@
 
 // Enum is a way to define a set of NAMED CONSTANTS. Enums allow you to define a collection of related values that can be used interchangeably in your code.
 
-// For example, let's say you're building a weather app and you want to define a set of possible weather conditions like "sunny", "cloudy", and "snowly". You could define an enum like this:
+// For example, let's say you're building a weather app and you want to define a set of possible weather conditions like "sunny", "cloudy", "rainy" and "snowly". You could define an enum like this:
 
 enum WeatherConditions {
   Sunny = "sunny",
